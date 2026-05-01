@@ -1,6 +1,8 @@
 # TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis
 
-This repository contains the source code and dataset for our paper.
+This repository contains the official source code and dataset for the paper **"TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis"**.
+
+> 🏆 **This paper has been officially accepted by IJCAI 2026 (Main Track).**
 
 ##  Requirements
 
@@ -26,13 +28,24 @@ To strictly reproduce the scores reported in our paper, we used the following en
 
 **Installation:**
 ```bash
+# Clone the repository
+git clone [https://github.com/LiXinran6/TCDA.git](https://github.com/LiXinran6/TCDA.git)
+cd TCDA
+
+# Install dependencies
 pip install -r requirements.txt
 ```
 
 
 ## TRAIN
-
+Run the following command to train the model and reproduce the results.
 ```bash
-# seed = 50-66
+# Recommended seed range: 50-66
 bash script/train.sh
 ```
+
+## Dataset
+The datasets used in this work are located in the data/ directory.
+
+## Citation
+If you find this work or code useful for your research, please consider citing our IJCAI 2026 paper.The formal citation format will be updated once the official conference proceedings are published.
