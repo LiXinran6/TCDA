@@ -1,0 +1,2 @@
+avg,f1,ident,ta,to,ao,t,a,o,intra,inter,cross-1,cross-ge2,cross-ge3,val_f1,val_ident,epoch,dropout,batch_size,logger,time
+46.0513,44.7179,47.3846,58.6600,50.8000,55.0500,91.5500,78.4100,60.2800,47.9800,30.6000,34.4800,15.7900,0.0000,43.1333,48.0163,41,0.1,2,./result/zh/f1_44.7179ident_47.3846ep_41.log,20260109-195721
