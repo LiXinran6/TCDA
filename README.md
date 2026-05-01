@@ -29,7 +29,7 @@ To strictly reproduce the scores reported in our paper, we used the following en
 **Installation:**
 ```bash
 # Clone the repository
-git clone [https://github.com/LiXinran6/TCDA.git](https://github.com/LiXinran6/TCDA.git)
+git clone https://github.com/LiXinran6/TCDA.git
 cd TCDA
 
 # Install dependencies
@@ -48,4 +48,4 @@ bash script/train.sh
 The datasets used in this work are located in the data/ directory.
 
 ## Citation
-If you find this work or code useful for your research, please consider citing our IJCAI 2026 paper.The formal citation format will be updated once the official conference proceedings are published.
+If you find this work or code useful for your research, please consider citing our IJCAI 2026 paper. The formal citation format will be updated once the official conference proceedings are published.
