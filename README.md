@@ -48,4 +48,23 @@ bash script/train.sh
 The datasets used in this work are located in the data/ directory.
 
 ## Citation
-If you find this work or code useful for your research, please consider citing our IJCAI 2026 paper. The formal citation format will be updated once the official conference proceedings are published.
+
+If you find this work or code useful for your research, please consider citing our IJCAI 2026 paper:
+
+```bibtex
+@inproceedings{ijcai2026p647,
+  title     = {TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis},
+  author    = {Li, Xinran and Che, Xinze and Lyu, Yifan and Huang, Zhiqi and Xu, Xiujuan},
+  booktitle = {Proceedings of the Thirty-Fifth International Joint Conference on Artificial Intelligence, {IJCAI-26}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Diego Calvanese},
+  pages     = {5810--5818},
+  year      = {2026},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2026/647},
+  url       = {https://doi.org/10.24963/ijcai.2026/647},
+}
+```
+
+**Paper:** [https://doi.org/10.24963/ijcai.2026/647](https://doi.org/10.24963/ijcai.2026/647)
