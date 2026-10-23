@@ -44,7 +44,7 @@ Run the following command to train the model and reproduce the results.
 bash script/train.sh
 ```
 
-## Datasets
+## Dataset
 The datasets used in this work are located in the data/ directory.
 
 ## Citation
